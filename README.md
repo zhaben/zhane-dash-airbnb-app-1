@@ -21,14 +21,11 @@ I found the Airbnb data on Kaggle: https://www.kaggle.com/dgomonov/new-york-city
 - Used Heroku, a cloud application platform, to deploy it without using javascript.
 
 plotly: https://plotly.com
-
-mapbox: https://www.mapbox.com 
-
+mapbox: https://www.mapbox.com
 dash: https://plotly.com/dash/
-
 heroku: https://dashboard.heroku.com
 
-Dash core components: https://dash.plotly.com/dash-core-components 
-HTML components: https://dash.plotly.com/dash-html-components 
-Plotly graphing library maps: https://plotly.com/python/maps/ 
+Dash core components: https://dash.plotly.com/dash-core-components
+HTML components: https://dash.plotly.com/dash-html-components
+Plotly graphing library maps: https://plotly.com/python/maps/
 Dash callbacks: https://dash.plotly.com/basic-callbacks
