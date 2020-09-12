@@ -12,7 +12,7 @@ I found the Airbnb data on Kaggle: https://www.kaggle.com/dgomonov/new-york-city
 
 - Created a mapbox account to get a public access token to plot on mapbox maps with plotly.		
 		
-- used Dash (a framework for building analytic web apps using Python without Javavascript) to build the app.
+- Used Dash (a framework for building analytic web apps using Python without Javavascript) to build the app.
   - built dash components (dropdown, checkbox, slider, date picker, graph) to allow the user to filter the data
   - built HTML components to structure items on the webpage
   - built plotly graphs (mapbox, scatterplot, line chart, bar chart) to create a mapbox map based on the documentation		
